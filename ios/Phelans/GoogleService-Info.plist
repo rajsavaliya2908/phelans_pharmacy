@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>430058459721-fucs99vmhbpo8fdsal17p9cklvkb4oia.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.430058459721-fucs99vmhbpo8fdsal17p9cklvkb4oia</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH86pCAwh4XjvHH5hLg_r_o0oOeMzpvfA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>430058459721</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phelans</string>
+	<key>PROJECT_ID</key>
+	<string>phelans-main</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phelans-main.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:430058459721:ios:299579fc99bc7ec78ea598</string>
+	<key>DATABASE_URL</key>
+	<string>https://phelans-main-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

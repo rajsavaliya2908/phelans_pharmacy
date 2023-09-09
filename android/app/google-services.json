@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430058459721",
+    "project_id": "phelans-main",
+    "storage_bucket": "phelans-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430058459721:android:d1bc0d2476a2cb808ea598",
+        "android_client_info": {
+          "package_name": "com.phelans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430058459721-65nkfbq2a02h4trs4j477e5a0c7qarvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGSMKzB_JRu_6YSS9o_nl99StdlGgkPIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430058459721-65nkfbq2a02h4trs4j477e5a0c7qarvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
